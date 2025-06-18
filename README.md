@@ -56,7 +56,7 @@
 
 Here are some of my top projects:
 
-- 🎮 **[Gather Town – 2D Metaverse Platform](https://github.com/ByteWizard12/gather_town.git)**  
+- 🎮 **[Gather Town – 2D Metaverse Platform](https://gather-town.onrender.com)**  
   Real-time multiplayer virtual office with avatar movement, proximity chat, Google sign-in, and MongoDB-backed sessions.
 
 - 🤖 **AI Health Assistant**  
