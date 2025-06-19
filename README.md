@@ -78,11 +78,3 @@ Here are some of my top projects:
 - 🌟 Participated in Hacktoberfest and contributed to open source
 
 ---
-
-### 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kanav-bansal-094a68251/)
-- 📬 [Email](mailto:bansalkanav84@gmail.com)
-
----
-
