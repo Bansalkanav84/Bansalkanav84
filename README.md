@@ -19,7 +19,7 @@
 
 - 🎓 Final Year B.Tech Computer Science student at **University of Petroleum and Energy Studies (UPES)**
 - 🔧 Passionate about Full Stack Web Development and Problem Solving
-- 📚 Solved **150+ DSA problems** on LeetCode and counting
+- 📚 Solved **200+ DSA problems** on LeetCode and counting
 - 🌐 Built real-world projects like **Gather Town**, **AI Health Assistant**, and more
 - 📬 Open to full-time opportunities in **Software Development / Full Stack Engineering**
 
@@ -72,7 +72,7 @@ Here are some of my top projects:
 
 ### 🏆 Achievements
 
-- 🧠 Solved **150+ LeetCode** problems (DSA)
+- 🧠 Solved **200+ LeetCode** problems (DSA)
 - 🥇 Gold Badge in Java on HackerRank
 - 🌐 Completed internships and frontend certifications from Microsoft, Simplilearn, AWS
 - 🌟 Participated in Hacktoberfest and contributed to open source
