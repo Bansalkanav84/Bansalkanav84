@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanav Bansal</h1>
-<h3 align="center">Final Year B.Tech CSE Student | Full Stack Developer | 200+ LeetCode Problems Solved</h3>
+<h3 align="center">Final Year B.Tech CSE Student | Full Stack Developer | 300+ LeetCode Problems Solved</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanav-bansal-094a68251/" target="_blank">
