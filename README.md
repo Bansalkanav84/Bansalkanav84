@@ -72,7 +72,7 @@ Here are some of my top projects:
 
 ### 🏆 Achievements
 
-- 🧠 Solved **200+ LeetCode** problems (DSA)
+- 🧠 Solved **300+ LeetCode** problems (DSA)
 - 🥇 Gold Badge in Java on HackerRank
 - 🌐 Completed internships and frontend certifications from Microsoft, Simplilearn, AWS
 - 🌟 Participated in Hacktoberfest and contributed to open source
