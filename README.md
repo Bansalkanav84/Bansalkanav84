@@ -8,7 +8,7 @@
   <a href="mailto:bansalkanav84@gmail.com">
     <img src="https://img.shields.io/badge/Email-bansalkanav84@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://drive.google.com/file/d/1VLAA2NVPgVBVMC8QthyFtq8CaXgXpPhp/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/19l27vFd7IB9UXD5F5n6gb-cUY9LFjmSv/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 - 🎓 Final Year B.Tech Computer Science student at **University of Petroleum and Energy Studies (UPES)**
 - 🔧 Passionate about Full Stack Web Development and Problem Solving
-- 📚 Solved **200+ DSA problems** on LeetCode and counting
+- 📚 Solved **300+ DSA problems** on LeetCode and counting
 - 🌐 Built real-world projects like **Gather Town**, **AI Health Assistant**, and more
 - 📬 Open to full-time opportunities in **Software Development / Full Stack Engineering**
 
